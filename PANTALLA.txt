@@ -1,0 +1,8 @@
+ALUMNO: juan perez
+
+CASILLERO ASIGNADO: 124
+
+FECHA ENTREGA: 2026-05-12 00:00:00
+
+Tiempo restante para devolver el casillero: 
+713 days, 23:34:11.888939
